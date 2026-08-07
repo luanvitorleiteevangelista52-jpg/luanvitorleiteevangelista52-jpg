@@ -20,10 +20,6 @@
 </details>
 ###
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/php-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </div>
 ###
@@ -34,7 +30,4 @@
 </picture>
 ###
 <div align="center">
-  <img src="https://img.shields.io/badge/Code-Lover-ffb6c1?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Coffee-Addict-ffc0cb?style=for-the-badge&logo=buymeacoffee"/>
-  <img src="https://img.shields.io/badge/Always-Learning-ff69b4?style=for-the-badge"/>
 </div>
