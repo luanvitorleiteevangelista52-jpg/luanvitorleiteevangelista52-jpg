@@ -18,12 +18,7 @@
       <li>Spring Data MongoDB</li>
   </ul>
 </details>
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img src="<img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" />
-</div>
-###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hawkie06/Hawkie06/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hawkie06/Hawkie06/output/pacman-contribution-graph.svg">
