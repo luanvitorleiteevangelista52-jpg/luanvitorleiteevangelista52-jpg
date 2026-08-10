@@ -1,4 +1,4 @@
-<img src="https://thumbs.dreamstime.com/b/azul-del-c%C3%B3digo-binario-41472462.jpg" width="100%" />
+<img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000009a60820e93972bda3085c026&ts=496220&p=fs&cid=1&sig=d81731b6a55396ab3781aec5ecacb500cdadc994b927af15be6d2a85660e5296&v=0" width="100%" />
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&lines=Hi%2C+I'm+Luan+Vitor!;Welcome+to+my+GitHub+;I+love+programming+and+learning!" />
 ###
 <h3 align="left">I'm a Software Engineering student at Unifil. I'm interested in front-end and back-end development.</h3>
