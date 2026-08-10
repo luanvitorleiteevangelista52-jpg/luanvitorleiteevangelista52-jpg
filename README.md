@@ -9,13 +9,8 @@
   <h4>🧠 What I'm learning:</h4>
   <ul>
       <li>POO</li>
-      <li>JDBC</li>
       <li>JavaFX</li>
-      <li>Spring Boot</li>
-      <li>JPA / Hibernate</li>
-      <li>Maven</li>
-      <li>Spring Data JPA</li>
-      <li>Spring Data MongoDB</li>
+    
   </ul>
 </details>
 
