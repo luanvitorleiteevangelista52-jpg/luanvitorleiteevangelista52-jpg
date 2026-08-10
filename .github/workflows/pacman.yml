@@ -1,9 +1,9 @@
 name: Generate Pacman Contribution Graph
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
   generate:
@@ -11,14 +11,18 @@ jobs:
 
     steps:
       - name: Generate Pacman
-        uses: abozanona/pacman-contribution-graph@main
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: luanvitorleiteevangelista52-jpg
-
-      - name: Push generated files
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
+
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
