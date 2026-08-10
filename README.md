@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/05/6a/2d/056a2d78e6176e0797618e55906f001b.jpg" width="100%" />
+<img src="https://i.pinimg.com/originals/49/60/26/49602633a5ebc7246beedac09dd2837b.gif" width="100%" />
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&lines=Hi%2C+I'm+Luan+Vitor!;Welcome+to+my+GitHub+;I+love+programming+and+learning!" />
 ###
 <h3 align="left">I'm a Software Engineering student at Unifil. I'm interested in front-end and back-end development.</h3>
